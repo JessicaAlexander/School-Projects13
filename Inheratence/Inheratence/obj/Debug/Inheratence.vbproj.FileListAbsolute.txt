@@ -1,0 +1,12 @@
+C:\Users\Jessica\source\repos\Inheratence\Inheratence\bin\Debug\Inheratence.exe.config
+C:\Users\Jessica\source\repos\Inheratence\Inheratence\bin\Debug\Inheratence.exe
+C:\Users\Jessica\source\repos\Inheratence\Inheratence\bin\Debug\Inheratence.pdb
+C:\Users\Jessica\source\repos\Inheratence\Inheratence\bin\Debug\Inheratence.xml
+C:\Users\Jessica\source\repos\Inheratence\Inheratence\obj\Debug\Inheratence.vbprojAssemblyReference.cache
+C:\Users\Jessica\source\repos\Inheratence\Inheratence\obj\Debug\Inheratence.Form1.resources
+C:\Users\Jessica\source\repos\Inheratence\Inheratence\obj\Debug\Inheratence.Resources.resources
+C:\Users\Jessica\source\repos\Inheratence\Inheratence\obj\Debug\Inheratence.vbproj.GenerateResource.cache
+C:\Users\Jessica\source\repos\Inheratence\Inheratence\obj\Debug\Inheratence.vbproj.CoreCompileInputs.cache
+C:\Users\Jessica\source\repos\Inheratence\Inheratence\obj\Debug\Inheratence.exe
+C:\Users\Jessica\source\repos\Inheratence\Inheratence\obj\Debug\Inheratence.xml
+C:\Users\Jessica\source\repos\Inheratence\Inheratence\obj\Debug\Inheratence.pdb
